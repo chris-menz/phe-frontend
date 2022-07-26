@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import { Link } from 'react-router-dom';
-
+import candidateView from "./routes/candidateView"
+import employeeView from "./routes/employerView"
 function App() {
   return (
     <div className="App">
