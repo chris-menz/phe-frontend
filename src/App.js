@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { Link } from 'react-router-dom';
 
 function App() {
   return (
@@ -16,6 +17,10 @@ function App() {
           rel="noopener noreferrer"
         >
           PHE React Frontend
+        </a>
+        <a>
+        <Link to="/candidateView">Candidate View</Link>
+        <Link to="/employerView">Employer View</Link>
         </a>
       </header>
     </div>
