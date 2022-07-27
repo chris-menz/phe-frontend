@@ -3,8 +3,8 @@ export default function Candidate_frames () {
 	    <main>
 // 		<body style={{margin-top: 50px;}}>
  
-			<div>
-			    <div> 
+// 			<div>
+// 			    <div> 
 				<div>
 				    <div>
  
