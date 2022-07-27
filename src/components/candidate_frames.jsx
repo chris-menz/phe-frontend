@@ -14,7 +14,7 @@ export default function Candidate_frames () {
 	                    </div>
 	                    <h3 class="f-w-600 m-t-25 m-b-10">Jeffrey Bezoos</h3>
 	                    <p class="text-muted">Tag1 | Tag2 | Tag3</p>
-	                    <hr>
+
 
 
 	                    <p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
