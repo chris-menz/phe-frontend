@@ -11,7 +11,7 @@ export default function Candidate_frames () {
 			
 	<Container>
 	    <Row>
-	        <Col md="4">
+	        <Col>
 	            <div class="card user-card">
 
 	                <div class="card-block">
@@ -28,7 +28,7 @@ export default function Candidate_frames () {
 	            </div>
 	        </Col>
 	   
-	        <Col md={4}>
+	        <Col>
 	            <div class="card user-card">
 
 	                <div class="card-block">
@@ -45,7 +45,7 @@ export default function Candidate_frames () {
 	            </div>
 	        </Col>
 	        
-	        <Col md={4}>
+	        <Col>
 	            <div class="card user-card">
 
 	                <div class="card-block">
@@ -62,7 +62,7 @@ export default function Candidate_frames () {
 	            </div>
 	        </Col>
 		</Row>
-	</COntainer>
+	</Container>
 	    </main>
 	)
 }
