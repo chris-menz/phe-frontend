@@ -1,7 +1,9 @@
 import jeff_winner from '../components/jeff_winner.jpg';
 import blank_profile from '../components/blank_profile.jpg';
 import '../components/styles.css';
-// import '../components/bootstrap.css';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 export default function Candidate_frames () {
     return (
