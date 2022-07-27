@@ -1,7 +1,7 @@
 export default function Candidate_frames () {
     return (
 	    <main>
-		<body style="margin-top: 50px;">
+// 		<body style="margin-top: 50px;">
  
 			<div class="container">
 			    <div class="row"> 
@@ -57,7 +57,7 @@ export default function Candidate_frames () {
 				</div>
 				</div>
 			</div>
-		</body>
+// 		</body>
 	    </main>
 	)
 }
