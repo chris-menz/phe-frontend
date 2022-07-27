@@ -1,4 +1,4 @@
-export default function candidate_frames () {
+export default function Candidate_frames () {
     return (
 		<body style="margin-top: 50px;">
  
