@@ -11,7 +11,7 @@ export default function Candidate_frames () {
 			
 	   <Container>
 	    <Row>
-	        <Col xs={4}>
+	        <Col md={4}>
 	            <div class="card user-card">
 
 	                <div class="card-block">
@@ -28,7 +28,7 @@ export default function Candidate_frames () {
 	            </div>
 	        </Col>
 	   
-	        <div class="col-md-4">
+	        <Col md={4}>
 	            <div class="card user-card">
 
 	                <div class="card-block">
@@ -43,9 +43,9 @@ export default function Candidate_frames () {
 	                    <p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
 	                </div>
 	            </div>
-	        </div>
+	        </Col>
 	        
-	        <div class="col-md-4">
+	        <Col md={4}>
 	            <div class="card user-card">
 
 	                <div class="card-block">
@@ -60,7 +60,7 @@ export default function Candidate_frames () {
 	                    <p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
 	                </div>
 	            </div>
-	        </div>
+	        </Col>
 		</Row>
 	</Container>
 	    </main>
