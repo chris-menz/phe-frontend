@@ -1,3 +1,5 @@
+export default function CandidateQuickView () {
+    return (
 		<body style="margin-top: 50px;">
  
 			<div class="container">
@@ -55,3 +57,5 @@
 				</div>
 			</div>
 		</body>
+	)
+}
