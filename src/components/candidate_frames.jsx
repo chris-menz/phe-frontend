@@ -9,8 +9,8 @@ export default function Candidate_frames () {
     return (
 	    <main>
 			
-	   <div class="container">
-	    <div class="row">
+	   <div class="Container">
+	    <div class="Row">
 	        <div class="col-md-4">
 	            <div class="card user-card">
 
