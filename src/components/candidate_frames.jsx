@@ -1,4 +1,4 @@
-export default function CandidateQuickView () {
+export default function candidate_frames () {
     return (
 		<body style="margin-top: 50px;">
  
