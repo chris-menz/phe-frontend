@@ -151,6 +151,28 @@ body{
     color: #EC4A89;
 }
 
+.skills {
+	/*background-color: #1F1A36;*/
+	text-align: left;
+	padding-left: 15px;
+	/*margin-top: 30px;*/
+}
+
+.skills ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.skills ul li {
+	border: 1px solid #2D2747;
+	border-radius: 50px;
+	display: inline-block;
+	font-size: 12px;
+	margin: 0 7px 7px 0;
+	padding: 7px;
+}
+
 /*.user-card .card-block .user-image:before {
     bottom: 0;
     border-bottom-left-radius: 50px;
