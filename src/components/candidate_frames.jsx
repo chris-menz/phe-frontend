@@ -33,7 +33,7 @@ export default function Candidate_frames () {
 	                    		<h5><b>Location:</b></h5>
 	                    		<a href="">Link this too google maps</a>
 	                    	</Col>
-	                	</div>
+	                	</Row>
 
 	                    <hr/>
 
