@@ -11,7 +11,7 @@ export default function Candidate_frames () {
 			
 	   <Container>
 	    <Row>
-	        <Col md={4}>
+	        <Col md="4">
 	            <div class="card user-card">
 
 	                <div class="card-block">
