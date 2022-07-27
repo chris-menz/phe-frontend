@@ -9,7 +9,7 @@ export default function CandidateView(){
 			    <div class="row">
 				<div class="col-md-4">
 				    <div class="card user-card">
-
+ 
 					<div class="card-block">
 					    <div class="user-image">
 						<img src="jeff_winner.jpg" class="img-radius" alt="User-Profile-Image"/>
