@@ -1,5 +1,6 @@
 import jeff_winner from '../components/jeff_winner.jpg';
 import blank_profile from '../components/blank_profile.jpg';
+import '../components/styles.css';
 
 export default function Candidate_frames () {
     return (
