@@ -19,12 +19,38 @@ export default function Candidate_frames () {
 	                    <div class="user-image">
 	                        <img src={jeff_winner} class="img-radius" alt="User-Profile-Image"/>
 	                    </div>
-	                    <h3 class="f-w-600 m-t-25 m-b-10">Jeffrey Bezoos</h3>
-	                    <p class="text-muted">Tag1 | Tag2 | Tag3</p>
-			<hr/>
+	                    <h3 class="f-w-600 m-t-25 m-b-10">Jeffrey Bezoos</h3>	                    
+			<p class="text-muted">Age? | Gender?</p>
+	                    <hr/>
+	                    <h4>Contact</h4>
+	                    <Row>
+	                    
+	                    	<Col>
+	                    		<h5><b>Call:</b></h5>
+	                    		<a href="tel:+1234567890">123-456-7890</a>
+	                    	</Col>
+	                    	<Col>
+	                    		<h5><b>Location:</b></h5>
+	                    		<a href="">Link this too google maps</a>
+	                    	</Col>
+	                	</div>
 
+	                    <hr/>
 
 	                    <p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+	                    <hr/>
+                    	<div class="skills">
+				<h5>Skills</h5>
+					<ul>
+						<li>UI / UX</li>
+						<li>Front End Development</li>
+						<li>HTML</li>
+						<li>CSS</li>
+						<li>JavaScript</li>
+						<li>React</li>
+						<li>Node</li>
+					</ul>
+				</div>
 	                </div>
 	            </div>
 	        </Col>
