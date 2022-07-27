@@ -26,7 +26,7 @@ export default function Candidate_frames () {
 	                    <p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
 	                </div>
 	            </div>
-	        </div>
+	        </Col>
 	   
 	        <Col md={4}>
 	            <div class="card user-card">
