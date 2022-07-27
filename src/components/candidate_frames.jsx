@@ -9,7 +9,7 @@ export default function Candidate_frames () {
  
 					<div class="card-block">
 					    <div class="user-image">
-						<img src="jeff_winner.jpg" class="img-radius" alt="User-Profile-Image"/>
+// 						<img src="jeff_winner.jpg" class="img-radius" alt="User-Profile-Image"/>
 					    </div>
 					    <h3 class="f-w-600 m-t-25 m-b-10">Jeffrey Bezoos</h3>
 					    <p class="text-muted">Tag1 | Tag2 | Tag3</p>
@@ -26,7 +26,7 @@ export default function Candidate_frames () {
 
 					<div class="card-block">
 					    <div class="user-image">
-						<img src="https://bootdey.com/img/Content/avatar/avatar6.png" class="img-radius" alt="User-Profile-Image"/>
+// 						<img src="https://bootdey.com/img/Content/avatar/avatar6.png" class="img-radius" alt="User-Profile-Image"/>
 					    </div>
 					    <h3 class="f-w-600 m-t-25 m-b-10">Yo Mama</h3>
 					    <p class="text-muted">Tag1 | Tag2 | Tag3</p>
@@ -43,7 +43,7 @@ export default function Candidate_frames () {
 
 					<div class="card-block">
 					    <div class="user-image">
-						<img src="blank_profile.jpg" class="img-radius" alt="User-Profile-Image"/>
+// 						<img src="blank_profile.jpg" class="img-radius" alt="User-Profile-Image"/>
 					    </div>
 					    <h3 class="f-w-600 m-t-25 m-b-10">John Doe</h3>
 					    <p class="text-muted">Tag1 | Tag2 | Tag3</p>
