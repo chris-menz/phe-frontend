@@ -4,7 +4,7 @@ export default function CandidateView(){
            <h1>Candidate View</h1> 
         
 		<body style="margin-top: 50px;">
-
+ 
 			<div class="container">
 			    <div class="row">
 				<div class="col-md-4">
