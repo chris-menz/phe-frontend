@@ -9,8 +9,8 @@ export default function Candidate_frames () {
     return (
 	    <main>
 			
-	   <div class="Container">
-	    <div class="Row">
+	   <Container>
+	    <Row>
 	        <div class="col-md-4">
 	            <div class="card user-card">
 
@@ -61,8 +61,8 @@ export default function Candidate_frames () {
 	                </div>
 	            </div>
 	        </div>
-		</div>
-	</div>
+		</Row>
+	</Container>
 	    </main>
 	)
 }
