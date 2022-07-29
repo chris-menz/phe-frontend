@@ -40,7 +40,7 @@ export default function Candidate_frames () {
 	                    
 	                    <hr/>
                     	<div class="skills" >
-					<h5 style={{color: black}}><b>Skills</b></h5>
+					<h5 style={{color: black;}}><b>Skills</b></h5>
 					<ul>
 						<li>UI / UX</li>
 						<li>Front End Development</li>
