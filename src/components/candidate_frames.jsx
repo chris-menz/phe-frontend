@@ -16,26 +16,26 @@ export default function Candidate_frames () {
 	            <div class="card user-card" style={{background-color: white}}>
 
 	                <div class="card-block">
-	                	<Row>
-	                    <Col class="user-image" style={{margin-left: 30px;}}>
-	                        <img src="jeff_winner.jpg" class="img-radius" alt="User-Profile-Image"/>
-	                    </Col>
-	                    <Col>
-	                    	<h3 class="f-w-600 m-t-25 m-b-10 h5_black" style={{color: #022658;}}>Jeffrey Bezoos</h3>
-	                    	<p class="text-muted">Age? | Gender?</p>
-	                    </Col>
-	                    </Row>
-				<hr/>
-	                    <Row>
-	                    	<Col>
-	                    		<h5 class="h5_black"><b>Location</b></h5>
-	                    		<a href="" style={{color: black;}}>Link this to google maps</a>
-	                    	</Col>
-	                    	<Col>
-	                    		<h5 class="h5_black"><b>Bio</b></h5>
-	                    		<p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
-	                    	</Col>
-	                	</Row>
+// 	                	<Row>
+// 	                    <Col class="user-image" style={{margin-left: 30px;}}>
+// 	                        <img src="jeff_winner.jpg" class="img-radius" alt="User-Profile-Image"/>
+// 	                    </Col>
+// 	                    <Col>
+// 	                    	<h3 class="f-w-600 m-t-25 m-b-10 h5_black" style={{color: #022658;}}>Jeffrey Bezoos</h3>
+// 	                    	<p class="text-muted">Age? | Gender?</p>
+// 	                    </Col>
+// 	                    </Row>
+// 				<hr/>
+// 	                    <Row>
+// 	                    	<Col>
+// 	                    		<h5 class="h5_black"><b>Location</b></h5>
+// 	                    		<a href="" style={{color: black;}}>Link this to google maps</a>
+// 	                    	</Col>
+// 	                    	<Col>
+// 	                    		<h5 class="h5_black"><b>Bio</b></h5>
+// 	                    		<p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+// 	                    	</Col>
+// 	                	</Row>
 
 	                    
 	                    <hr/>
