@@ -13,12 +13,12 @@ export default function Candidate_frames () {
 	<Container>
 	    <Row>
 	        <Col>
-	            <div class="card user-card" style={{background-color: 'white'}}>
+	            <div class="card user-card" style={{backgroundColor: 'white'}}>
 
 	                <div class="card-block">
 	                	<Row>
-	                    <Col class="user-image" style={{margin-left: '30px'}}>
-	                        <img src="jeff_winner.jpg" class="img-radius" alt="User-Profile-Image"/>
+	                    <Col class="user-image" style={{marginLeft: '30px'}}>
+	                        <img src={jeff_winner} class="img-radius" alt="User-Profile-Image"/>
 	                    </Col>
 	                    <Col>
 	                    	<h3 class="f-w-600 m-t-25 m-b-10 h5_black" style={{color: '#022658'}}>Jeffrey Bezoos</h3>
