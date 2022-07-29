@@ -96,7 +96,7 @@ body{
 }
 
 .text-muted {
-    color: black!important;
+    color: #000!important;
 }
 
 .user-card .card-block .activity-leval li.active {
