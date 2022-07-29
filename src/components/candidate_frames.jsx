@@ -17,7 +17,7 @@ export default function Candidate_frames () {
 
 	                <div class="card-block">
 	                	<Row>
-	                    <Col md="7" class="user-image" style={{marginLeft: '30px'}}>
+	                    <Col md="7" class="user-image">
 	                        <img src={jeff_winner} width='100px' class="img-radius" alt="User-Profile-Image"/>
 	                    </Col>
 	                    <Col md="5">
