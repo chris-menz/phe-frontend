@@ -92,11 +92,11 @@ body{
 }
 
 .h5_black{
-	color: black;
+	color: #000;
 }
 
 .text-muted {
-    color: #000!important;
+    color: #919aa3!important;
 }
 
 .user-card .card-block .activity-leval li.active {
@@ -169,8 +169,8 @@ body{
 }
 
 .skills ul li {
-	border: 1px solid black;
-	color: black;
+	border: 1px solid #000;
+	color: #000;
 	border-radius: 50px;
 	display: inline-block;
 	font-size: 12px;
