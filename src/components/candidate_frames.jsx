@@ -13,15 +13,15 @@ export default function Candidate_frames () {
 	<Container>
 	    <Row>
 	        <Col>
-	            <div class="card user-card" style={{background-color: white;}}>
+	            <div class="card user-card" style={{background-color: 'white'}}>
 
 	                <div class="card-block">
 	                	<Row>
-	                    <Col class="user-image" style={{margin-left: 30px;}}>
+	                    <Col class="user-image" style={{margin-left: '30px'}}>
 	                        <img src="jeff_winner.jpg" class="img-radius" alt="User-Profile-Image"/>
 	                    </Col>
 	                    <Col>
-	                    	<h3 class="f-w-600 m-t-25 m-b-10 h5_black" style={{color: #022658;}}>Jeffrey Bezoos</h3>
+	                    	<h3 class="f-w-600 m-t-25 m-b-10 h5_black" style={{color: '#022658'}}>Jeffrey Bezoos</h3>
 	                    	<p class="text-muted">Age? | Gender?</p>
 	                    </Col>
 	                    </Row>
@@ -29,7 +29,7 @@ export default function Candidate_frames () {
 	                    <Row>
 	                    	<Col>
 	                    		<h5 class="h5_black"><b>Location</b></h5>
-	                    		<a href="" style={{color: black;}}>Link this to google maps</a>
+	                    		<a href="" style={{color: 'black'}}>Link this to google maps</a>
 	                    	</Col>
 	                    	<Col>
 	                    		<h5 class="h5_black"><b>Bio</b></h5>
@@ -40,7 +40,7 @@ export default function Candidate_frames () {
 	                    
 	                    <hr/>
                     	<div class="skills" >
-					<h5 style={{color: black;}}><b>Skills</b></h5>
+					<h5 style={{color: 'black'}}><b>Skills</b></h5>
 					<ul>
 						<li>UI / UX</li>
 						<li>Front End Development</li>
