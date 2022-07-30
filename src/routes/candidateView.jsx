@@ -1,4 +1,4 @@
-import Candidate_frames from "../components/candidate_frames";
+import Candidate_frames from "../components/candidateFrames";
 
 export default function CandidateView(){
     return(

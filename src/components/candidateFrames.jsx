@@ -1,6 +1,5 @@
-import jeff_winner from '../components/jeff_winner.jpg';
-import blank_profile from '../components/blank_profile.jpg';
-import '../components/styles.css';
+import jeff_winner from '../assets/jeff_winner.jpg';
+import '../components/candidateFramesStyles.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
