@@ -22,5 +22,3 @@ export default About(){
         </div>
 	);
 };
-
-export default AboutPage;

@@ -8,5 +8,3 @@ export default FAQ(){
         </div>
 	);
 };
-
-export default FAQPage;
