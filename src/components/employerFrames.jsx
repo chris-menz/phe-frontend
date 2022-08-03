@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 
 export default function Employer_frames () {
     return (
-	    <main>
+	    <main> 
 		
 	<Container>
 	    <Row>
