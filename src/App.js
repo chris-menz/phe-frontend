@@ -3,6 +3,8 @@ import './App.css';
 import { Link } from 'react-router-dom';
 import candidateView from "./routes/candidateView"
 import employeeView from "./routes/employerView"
+import registerView from './routes/registerView';
+
 function App() {
   return (
     <div className="App">
@@ -22,6 +24,7 @@ function App() {
         <a>
         <Link to="/candidateView">Candidate View</Link>
         <Link to="/employerView">Employer View</Link>
+        <Link to="/registerView">Register View</Link>
         </a>
       </header>
     </div>

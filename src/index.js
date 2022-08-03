@@ -9,6 +9,7 @@ import {
 } from "react-router-dom";
 import CandidateView from "./routes/candidateView"
 import EmployerView from "./routes/employerView"
+import RegisterView from "./routes/registerView"
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -19,6 +20,7 @@ root.render(
         <Route path="/" element={<App />} />
         <Route path="candidateView" element={<CandidateView />} />
         <Route path="employerView" element={<EmployerView />} />
+        <Route path="registerView" element={<RegisterView />} />
       </Routes>
     </BrowserRouter>
    
