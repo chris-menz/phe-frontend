@@ -5,7 +5,7 @@ export default function CandidateView(){
            	<h1>Candidate View</h1> 
 	    <EmployerFrames></EmployerFrames>
 	</main>
-         
+          
     )
 }
  
