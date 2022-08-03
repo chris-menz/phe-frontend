@@ -1,3 +1,4 @@
+import Employer_frames from "../components/employerFrames";
 export default function CandidateView(){
     return(
         <main>
