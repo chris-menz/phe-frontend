@@ -1,6 +1,6 @@
 import React from 'react';
 
-const MainPage = () => {
+export default MainPage(){
     return (
        <nav>
             <a href = "index.html">Project Homeless Employment</a>
@@ -30,5 +30,3 @@ const MainPage = () => {
         </div>
 	);
 };
-
-export default MainPage;

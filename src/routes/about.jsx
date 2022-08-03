@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AboutPage = () => {
+export default About(){
     return (
         <div>
         <h1>ABOUT PROJECT HOMELESS EMPLOYMENT</h1>
