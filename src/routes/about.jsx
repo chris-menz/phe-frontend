@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default About(){
+export default function About(){
     return (
         <div>
         <h1>ABOUT PROJECT HOMELESS EMPLOYMENT</h1>

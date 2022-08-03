@@ -4,8 +4,10 @@ import { Link } from 'react-router-dom';
 import candidateView from "./routes/candidateView"
 import employeeView from "./routes/employerView"
 import about from "./routes/about"
-import FAQ from "./routes/FAQ"
+import faq from "./routes/faq"
 import MainPage from "./routes/mainpage"
+
+
 function App() {
   return (
     <div className="App">
@@ -23,11 +25,11 @@ function App() {
           PHE React Frontend
         </a>
         <a>
-        <Link to="/candidateView">Candidate View</Link>
-        <Link to="/employerView">Employer View</Link>
-	<Link to="/about">About</Link>
-	<Link to="/FAQ">FAQ</Link>
-	<Link to="/MainPage">Our (intended) main page</Link>
+          <Link to="/candidateView">Candidate View</Link>
+          <Link to="/employerView">Employer View</Link>
+	        <Link to="/about">About</Link>
+	        <Link to="/FAQ">FAQ</Link>
+	        <Link to="/MainPage">Our (intended) main page</Link>
         </a>
       </header>
     </div>

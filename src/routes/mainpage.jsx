@@ -1,13 +1,15 @@
 import React from 'react';
 
-export default MainPage(){
+export default function MainPage(){
     return (
+        <main>
+
        <nav>
             <a href = "index.html">Project Homeless Employment</a>
             <a href = "about.html">About</a>
             <a href ="explore.html">Explore</a>
         </nav>
-        <div> <!--- main content --->
+        <div>
             <h1> PROJECT HOMELESS EMPLOYMENT</h1>
             <p> This is the main page of Project Homeless Employment. </p>
             <p> We are using software to help give homeless people jobs. </p>
@@ -28,5 +30,6 @@ export default MainPage(){
 
             <p>THIS PAGE IS UNDER CONSTRUCTION!!!</p>
         </div>
+        </main>
 	);
 };
