@@ -10,6 +10,9 @@ import {
 import CandidateView from "./routes/candidateView"
 import EmployerView from "./routes/employerView"
 import RegisterView from "./routes/registerView"
+import About from "./routes/about"
+import FAQ from "./routes/faq"
+import MainPage from "./routes/mainpage"
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -21,6 +24,9 @@ root.render(
         <Route path="candidateView" element={<CandidateView />} />
         <Route path="employerView" element={<EmployerView />} />
         <Route path="registerView" element={<RegisterView />} />
+        <Route path="about" element={<About/>} />
+        <Route path="faq" element={<FAQ />} />
+        <Route path="mainpage" element={<MainPage />} />
       </Routes>
     </BrowserRouter>
    
