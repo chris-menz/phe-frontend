@@ -36,3 +36,75 @@
     transform: rotate(360deg);
   }
 }
+
+:root {
+    --green: #00FF00;
+    --white: #ffffff;
+    --black: #000000;
+}
+
+
+* {
+    color: var(--fontColor);
+    font-family: helvetica;
+}
+
+body {
+    background: var(--bg);
+}
+
+ul {
+    font-family: helvetica;
+}
+
+li {
+    list-style: circle;
+}
+
+.list {
+    list-style: square;
+}
+
+.btn {
+    color: var(--btnFontColor);
+    background-color: var(--btnBg);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    color: var(--btnFontColor);
+    background-color: var(--btnBg);
+}           
+
+.btn:focus { outline-style: none; }
+
+
+#msg {
+    font-family: monospace;
+}
+
+.light-theme {
+    --fontColor: var(--black);
+    --bg: var(--green);
+    --btnBg: var(--black);
+    --btnFontColor: var(--white);
+}
+
+.dark-theme {
+    --fontColor: var(--green);
+    --bg: var(--black);
+    --btnBg: var(--white);
+    --btnFontColor: var(--black);
+}
+
+nav {
+    background-color: greenyellow;
+    height: 30px;
+}
+
+a {
+    color: blue;
+}
