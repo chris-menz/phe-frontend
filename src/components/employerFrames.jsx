@@ -74,15 +74,15 @@ export default function Employer_frames () {
 	                    		<a href="" style={{color: 'black'}}>Link this to google maps</a>
 	                    	</Col>
 	                    	<Col>
-	                    		<h5 class="h5_black"><b>Bio</b></h5>
-	                    		<p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+	                    		<h5 class="h5_black"><b>Company</b></h5>
+	                    		<p class="m-t-15 text-muted">Amazon</p>
 	                    	</Col>
 	                	</Row>
 
 	                    
 	                    <hr/>
                     	<div class="skills" >
-					<h5 style={{color: 'black'}}><b>Skills</b></h5>
+					<h5 style={{color: 'black'}}><b>Job Opportunities</b></h5>
 					<ul>
 						<li>UI / UX</li>
 						<li>Front End Development</li>
@@ -96,7 +96,7 @@ export default function Employer_frames () {
 	                </div>
 	            </div>
 	        </Col>
-
+	   
 	        
 <Col>
 	            <div class="card user-card" style={{backgroundColor: 'white'}}>
@@ -118,15 +118,15 @@ export default function Employer_frames () {
 	                    		<a href="" style={{color: 'black'}}>Link this to google maps</a>
 	                    	</Col>
 	                    	<Col>
-	                    		<h5 class="h5_black"><b>Bio</b></h5>
-	                    		<p class="m-t-15 text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+	                    		<h5 class="h5_black"><b>Company</b></h5>
+	                    		<p class="m-t-15 text-muted">Amazon</p>
 	                    	</Col>
 	                	</Row>
 
 	                    
 	                    <hr/>
                     	<div class="skills" >
-					<h5 style={{color: 'black'}}><b>Skills</b></h5>
+					<h5 style={{color: 'black'}}><b>Job Opportunities</b></h5>
 					<ul>
 						<li>UI / UX</li>
 						<li>Front End Development</li>
@@ -140,6 +140,7 @@ export default function Employer_frames () {
 	                </div>
 	            </div>
 	        </Col>
+	   
 		</Row>
 
               </Container>
