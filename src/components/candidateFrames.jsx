@@ -9,7 +9,7 @@ export default function Candidate_frames () {
     return (
 	    <main>
 			
-	<Container>
+	<Container> 
 	    <Row>
 	        <Col>
 	            <div class="card user-card" style={{backgroundColor: 'white'}}>
