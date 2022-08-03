@@ -11,7 +11,6 @@ import CandidateView from "./routes/candidateView"
 import EmployerView from "./routes/employerView"
 import About from "./routes/about"
 import FAQ from "./routes/faq"
-import MainPage from "./routes/mainpage"
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -24,7 +23,6 @@ root.render(
         <Route path="employerView" element={<EmployerView />} />
         <Route path="about" element={<About/>} />
         <Route path="faq" element={<FAQ />} />
-        <Route path="mainpage" element={<MainPage />} />
       </Routes>
     </BrowserRouter>
    
