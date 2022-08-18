@@ -1,4 +1,4 @@
-import EmployerFrames from "../components/signupFrames";
+import SignupFrames from "../components/signupFrames";
 export default function SignupView(){
     return(
         <main>
