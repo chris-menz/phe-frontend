@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col';
 export default function Signup_frames () {
     return (
       <main>
-      
+        <h2>hello there</h2>
       </main>
      )
 }
