@@ -20,7 +20,7 @@ function App() {
 	        <Link to="/about">About</Link>
 	        <Link to="/FAQ">FAQ</Link>
 	        <Link to="/MainPage">Our (intended) main page</Link>
-	<Link to="/signupView">Sign Up</Link>
+		<Link to="/signupView">Sign Up</Link>
         </a>
       </header>
     </div>
