@@ -1,5 +1,5 @@
 import EmployerFrames from "../components/signupFrames";
-export default function signupView(){
+export default function SignupView(){
     return(
         <main>
            	<h1>Sign Up</h1> 
