@@ -9,7 +9,7 @@ import ReactDOM from 'react-dom';
 import $ from 'jquery';
 
 export default function SignupFrames () {
-useEffect(() => {
+// useEffect(() => {
 // var counter = 0
 // let textArea = document.getElementById("textbox");
 // let characterCounter = document.getElementById("char_count");
@@ -248,7 +248,7 @@ useEffect(() => {
 //   		document.getElementById(`myForm${child}`).querySelectorAll("[required]")[i].style.borderColor = "rgba(0, 0, 0, 0.2)"
 // 	});
 // }
-}, []);
+// }, []);
     return (
       <main>
         <>
