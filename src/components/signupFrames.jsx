@@ -3,10 +3,10 @@ import Container from 'react-bootstrap/Container';
 import '../components/signcss2.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import {useRef, useEffect} from 'react';
-import React from 'react';
-import ReactDOM from 'react-dom';
-import $ from 'jquery';
+// import {useRef, useEffect} from 'react';
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import $ from 'jquery';
 
 export default function SignupFrames () {
 // useEffect(() => {
