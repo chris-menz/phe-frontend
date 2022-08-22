@@ -26,7 +26,7 @@ const countCharacters = () => {
     }
 };
 
-// textArea.addEventListener("input", countCharacters);
+textArea.addEventListener("input", countCharacters);
 
 
 
