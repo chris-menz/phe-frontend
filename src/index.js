@@ -11,6 +11,7 @@ import CandidateView from "./routes/candidateView"
 import EmployerView from "./routes/employerView"
 import About from "./routes/about"
 import FAQ from "./routes/faq"
+import signupView from "./routes/signupView"
 import MainPage from "./routes/mainpage"
 import reportWebVitals from './reportWebVitals';
 
