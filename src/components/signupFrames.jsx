@@ -13,18 +13,18 @@ export default function SignupFrames () {
 var counter = 0
 let textArea = document.getElementById("textbox");
 let characterCounter = document.getElementById("char_count");
-// const maxNumOfChars = 100;
-// const countCharacters = () => {
-//     let numOfEnteredChars = textArea.value.length;
-//     var counter = numOfEnteredChars;
-//     if (counter < 100){
-//     	characterCounter.style.color = "orange";
-//     	characterCounter.textContent = counter + "/100";
-//     } else{
-//     	characterCounter.style.color = "green";
-//     	characterCounter.textContent = "Feel free to write more!";
-//     }
-// };
+const maxNumOfChars = 100;
+const countCharacters = () => {
+    let numOfEnteredChars = textArea.value.length;
+    var counter = numOfEnteredChars;
+    if (counter < 100){
+    	characterCounter.style.color = "orange";
+    	characterCounter.textContent = counter + "/100";
+    } else{
+    	characterCounter.style.color = "green";
+    	characterCounter.textContent = "Feel free to write more!";
+    }
+};
 
 // textArea.addEventListener("input", countCharacters);
 
