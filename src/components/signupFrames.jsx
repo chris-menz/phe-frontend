@@ -3,9 +3,11 @@ import Container from 'react-bootstrap/Container';
 import '../components/signcss2.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import {useRef, useEffect} from 'react';
 
 
 export default function SignupFrames () {
+useEffect(() => {
 var counter = 0
 let textArea = document.getElementById("textbox");
 let characterCounter = document.getElementById("char_count");
@@ -244,6 +246,7 @@ for (let i = 0; i < document.getElementsByClassName("input-container").length; i
   		document.getElementById(`myForm${child}`).querySelectorAll("[required]")[i].style.borderColor = "rgba(0, 0, 0, 0.2)"
 	});
 }
+}, []);
     return (
       <main>
         <>
