@@ -23,6 +23,7 @@ root.render(
         <Route path="/" element={<App />} />
         <Route path="candidateView" element={<CandidateView />} />
         <Route path="employerView" element={<EmployerView />} />
+        <Route path="signupView" element={<SignupView />} />
         <Route path="about" element={<About/>} />
         <Route path="faq" element={<FAQ />} />
         <Route path="mainpage" element={<MainPage />} />
