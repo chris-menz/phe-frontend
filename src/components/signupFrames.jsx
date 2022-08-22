@@ -248,7 +248,7 @@ useEffect(() => {
 //   		document.getElementById(`myForm${child}`).querySelectorAll("[required]")[i].style.borderColor = "rgba(0, 0, 0, 0.2)"
 // 	});
 // }
-// }, []);
+}, []);
     return (
       <main>
         <>
