@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-export default function Signup_frames () {
+export default function SignupFrames () {
     return (
       <main>
         <h2>hello there</h2>
