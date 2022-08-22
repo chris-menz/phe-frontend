@@ -10,8 +10,8 @@ import Col from 'react-bootstrap/Col';
 
 export default function SignupFrames () {
 // useEffect(() => {
-// var counter = 0
-// let textArea = document.getElementById("textbox");
+var counter = 0
+let textArea = document.getElementById("textbox");
 // let characterCounter = document.getElementById("char_count");
 // const maxNumOfChars = 100;
 // const countCharacters = () => {
