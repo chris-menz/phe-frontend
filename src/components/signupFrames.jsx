@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container';
 import '../components/signcss2.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import '../components/signup_form_js.js';
 
 export default function SignupFrames () {
     return (
