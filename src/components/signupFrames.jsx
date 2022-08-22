@@ -12,7 +12,7 @@ export default function SignupFrames () {
 // useEffect(() => {
 var counter = 0
 let textArea = document.getElementById("textbox");
-// let characterCounter = document.getElementById("char_count");
+let characterCounter = document.getElementById("char_count");
 // const maxNumOfChars = 100;
 // const countCharacters = () => {
 //     let numOfEnteredChars = textArea.value.length;
