@@ -23,7 +23,7 @@ export default function Candidate_frame() {
     const age = 69; //TODO: needs to be extrapolated from dob
     const gender = 'urmom' //not in the model right now
     const address = "The White House" //TODO: needs to be extrapolated from the obj and linked to google maps
-    const skills = []; //array for skills, generate html procedurally 
+    const skills = ["UI/UX", "Front End Development", "HTML", "CSS", "JavaScript", "React", "Node"]; //array for skills, generate html procedurally 
 
     return (
         <main>
@@ -56,13 +56,16 @@ export default function Candidate_frame() {
                     <div class="skills" >
                         <h5 style={{ color: 'black' }}><b>Skills</b></h5>
                         <ul>
-                            <li>UI / UX</li>
+                            {skills.map(skill => (
+                                <li>{skill}</li>
+                            ))}
+                            {/* <li>UI/UX</li>
                             <li>Front End Development</li>
                             <li>HTML</li>
                             <li>CSS</li>
                             <li>JavaScript</li>
                             <li>React</li>
-                            <li>Node</li>
+                            <li>Node</li> */}
                         </ul>
                     </div>
                 </div>
