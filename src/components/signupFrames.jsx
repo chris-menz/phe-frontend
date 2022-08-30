@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 // import React from 'react';
 // import ReactDOM from 'react-dom';
 import $ from 'jquery';
-
+ 
 export default function SignupFrames () {
 // useEffect(() => {
 var counter = 0
