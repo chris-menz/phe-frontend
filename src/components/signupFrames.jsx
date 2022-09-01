@@ -10,7 +10,7 @@ import $ from 'jquery';
  
 export default function SignupFrames () {
 // useEffect(() => {
-var counter = 0
+var counter = 0  
 let textArea = document.getElementById("textbox");
 let characterCounter = document.getElementById("char_count");
 const maxNumOfChars = 100;
